@@ -1,0 +1,38 @@
+# utils/transcriber.py
+
+def transcribe(audio_path, config):
+    # РўСЂР°РЅСЃРєСЂРёРїС†РёСЏ СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј РІС‹Р±СЂР°РЅРЅРѕР№ С‚РµС…РЅРѕР»РѕРіРёРё
+    return "РўСЂР°РЅСЃРєСЂРёР±РёСЂРѕРІР°РЅРЅС‹Р№ С‚РµРєСЃС‚"
+2025-04-10 15:05:38,199 - INFO - Mode selected: mic
+2025-04-10 15:12:32,253 - INFO - Mode selected: mic
+2025-04-10 15:43:11,045 - INFO - Mode selected: mic
+2025-04-10 16:02:53,079 - INFO - Mode selected: mic
+2025-04-10 16:02:54,368 - INFO - Transcription saved to output\transcript_20250410_1602.txt
+2025-04-10 16:03:45,238 - INFO - Mode selected: mic
+2025-04-10 16:03:50,495 - INFO - Transcription saved to output\transcript_20250410_1603.txt
+2025-04-10 16:04:22,460 - INFO - Mode selected: mic
+2025-04-10 16:04:27,746 - INFO - Transcription saved to output\transcript_20250410_1604.txt
+2025-04-10 16:05:49,615 - INFO - Mode selected: mic
+2025-04-10 16:05:54,940 - INFO - Transcription saved to output\transcript_20250410_1605.txt
+2025-04-11 10:53:20,909 - INFO - Mode selected: mic
+2025-04-11 10:53:26,379 - INFO - Transcription saved to output\transcript_20250411_1053.txt
+2025-04-11 11:01:27,057 - INFO - Режим: mic
+2025-04-11 11:01:32,337 - INFO - Транскрибация сохранена: output\transcript_20250411_1101.txt
+2025-04-11 11:11:45,158 - INFO - Режим: mic
+2025-04-11 11:12:58,089 - INFO - Режим: mic
+2025-04-11 11:16:53,047 - INFO - Режим: mic
+2025-04-11 11:17:03,372 - INFO - Транскрибация сохранена: output\transcript_20250411_1117.txt
+2025-04-11 11:25:33,922 - INFO - Режим: mic
+2025-04-11 11:25:44,238 - INFO - Транскрибация сохранена: output\transcript_20250411_1125.txt
+2025-04-11 11:26:45,748 - INFO - Режим: mic
+2025-04-11 11:26:56,025 - INFO - Транскрибация сохранена: output\transcript_20250411_1126.txt
+2025-04-11 11:36:39,594 - INFO - Режим: mic
+2025-04-11 11:36:49,851 - INFO - Транскрибация сохранена: output\transcript_20250411_1136.txt
+2025-04-11 11:39:35,529 - INFO - Режим: mic
+2025-04-11 11:39:45,777 - INFO - Транскрибация сохранена: output\transcript_20250411_1139.txt
+2025-04-11 11:44:15,294 - INFO - Режим: mic
+2025-04-11 11:44:25,559 - INFO - Транскрибация сохранена: output\transcript_20250411_1144.txt
+2025-04-11 11:52:31,711 - INFO - Режим работы: mic
+2025-04-11 11:52:41,974 - INFO - Транскрибация сохранена: output\transcript_20250411_1152.txt
+2025-04-11 11:54:42,256 - INFO - Режим работы: mic
+2025-04-11 11:54:53,038 - INFO - Транскрибация сохранена: output\transcript_20250411_1154.txt

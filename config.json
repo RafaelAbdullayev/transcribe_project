@@ -1,0 +1,5 @@
+{
+    "model": "base",
+    "output_dir": "output",
+    "max_record_seconds": 15
+}
